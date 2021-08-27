@@ -1,0 +1,14 @@
+.programming{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social{
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutusAndFollow{
+    display: flex;
+    justify-content: space-evenly;
+}
